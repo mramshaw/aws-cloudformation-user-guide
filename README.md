@@ -2,6 +2,10 @@
 
 The open source version of the AWS CloudFormation User Guide
 
+## Index
+
+Find the index [here](doc_source/index.md)
+
 ## License Summary
 
 The documentation is made available under the Creative Commons Attribution-ShareAlike 4.0 International License. See the LICENSE file.
